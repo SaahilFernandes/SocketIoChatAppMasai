@@ -1,5 +1,4 @@
 # Real-time Chat Application using React and Socket.io
-
 This is a full-stack, real-time chat application built with React on the frontend and a Node.js, Express, and Socket.io backend. The focus of this project is to demonstrate real-time, bi-directional communication between clients and a server, with all chat data and user information being stored in-memory.
 
 ## Features
@@ -82,7 +81,10 @@ To get this project running on your local machine, please follow these steps.
     npm install
     ```
 
-## Running the Application
+## Running the Application-
+<img width="788" height="920" alt="image" src="https://github.com/user-attachments/assets/1ebf3fa0-20c9-4456-9056-7c666ad59bc4" />
+
+<img width="786" height="928" alt="image" src="https://github.com/user-attachments/assets/6c60c64b-a446-46fe-8ac2-540fa88e5518" />
 
 You will need to run the backend and frontend servers in two separate terminals.
 
@@ -96,8 +98,5 @@ node server.js
 
 
 
-Demo-
-<img width="788" height="920" alt="image" src="https://github.com/user-attachments/assets/1ebf3fa0-20c9-4456-9056-7c666ad59bc4" />
 
-<img width="786" height="928" alt="image" src="https://github.com/user-attachments/assets/6c60c64b-a446-46fe-8ac2-540fa88e5518" />
 
